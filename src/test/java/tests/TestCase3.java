@@ -29,7 +29,8 @@ public class TestCase3 {
 		BrowserUtils.KillBrowser();
 		report.endTest(test);
 		ReportUtils.UpdateAndCloseReport();
-		ReportUtils.launchReport();		
+		ReportUtils.launchReport();
+		ReportUtils.launchReport();	
 		
 	}
 }
