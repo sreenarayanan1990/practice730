@@ -30,7 +30,8 @@ public class TestCase3 {
 		report.endTest(test);
 		ReportUtils.UpdateAndCloseReport();
 		ReportUtils.launchReport();
-		ReportUtils.launchReport();	
+		ReportUtils.launchReport();
+		ReportUtils.launchReport();
 		
 	}
 }
